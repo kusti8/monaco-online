@@ -1,0 +1,22 @@
+{
+  "name": "monaco-online",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusti8/monaco-online.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kusti8/monaco-online/issues"
+  },
+  "homepage": "https://github.com/kusti8/monaco-online#readme",
+  "dependencies": {
+    "monaco-editor": "^0.14.3"
+  }
+}
